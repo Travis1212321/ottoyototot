@@ -1,7 +1,7 @@
   # 🚀 Hᴀɴs-Xᴍᴅ 🔥
 
 <p align="center">
-  <img src="https://files.catbox.moe/9sd379.jpg" width="70%" alt="Main Graphic" />
+  <img src="https://files.catbox.moe/i5qjy2.png" width="70%" alt="Main Graphic" />
 </p>
 
 ---
