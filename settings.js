@@ -1,9 +1,9 @@
-//base by HANSTZ
-//YouTube: @HANSTZ-TECH
-//Whatsapp https://wa.me/255614195217
-//GitHub: @Mrhanstz
-//WhatsApp: https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
-//want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
+//base by OTTO²
+//YouTube: @AmrowKhalid
+//Whatsapp https://wa.me/249126083647
+//GitHub: @Travis1212321
+//WhatsApp: https://whatsapp.com/channel/0029VbAigic5fM5hwt07uw3X
+//want more free bot scripts? follow my channel : https://whatsapp.com/channel/0029VbAigic5fM5hwt07uw3X
 const fs = require('fs')
 const chalk = require('chalk')
 require('dotenv').config()
@@ -64,8 +64,8 @@ global.mess = {
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'In process... ',    
-    error: 'Error!',
+    wait: '`ابرد ابرد 🌹`',    
+    error: '`مشكلة دي😥`',
 }
 
 global.thumb = fs.readFileSync('./HansTzMedia/thumb.jpg')
