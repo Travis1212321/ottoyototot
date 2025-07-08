@@ -1,4 +1,4 @@
-  # 🚀 Hᴀɴs-Xᴍᴅ 🔥
+  # 🚀 𝑶𝑻𝑻𝑶-𝑩𝑶𝑻-𝑴𝑫 🔥
 
 <p align="center">
   <img src="https://files.catbox.moe/i5qjy2.png" width="70%" alt="Main Graphic" />
@@ -20,7 +20,7 @@
 ## 🚀 Get Started  
 
 ### 1️⃣ Fork the Repo  
-[![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Mrhanstz/HANS-XMD_V2/fork)
+[![Fork Repo](https://img.shields.io/badge/Fork-Repo-222222?style=for-the-badge&logo=github)](https://github.com/Travis1212321/ottoyototot/fork)
 
 ### 2️⃣ Session ID Site
 [![Get Session ID](https://img.shields.io/badge/Get-Session%20ID-orange?style=for-the-badge&logo=key)](https://hanstech-pair.onrender.com/)
@@ -38,7 +38,7 @@
 ---
 
 ### 5️⃣ Download the ZIP File  
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=download)](https://github.com/Mrhanstz/HANS-XMD_V2/archive/refs/heads/main.zip)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=download)](https://github.com/Travis1212321/ottoyototot/archive/refs/heads/main.zip)
 
 ### BEST PERFORMANCE 
 
