@@ -7,12 +7,12 @@
 ---
 ###UPDATES
 ---
-### 🎧 MUSIC DOWNLOADER
-### 🖼️ RANDOMS ANIME IMAGE'S
-### 😅 FUN STICKERS
-### 🤖 CHATBOT
-### 🔗 ANTILINK
-### *AND MORE COMMANDS*
+### 🎧 تـحـمـيـل اغـاني 🫦
+### 🖼️ صـور انـمـي 🫦
+### 🙉 مـلـصـقـات مـتـعـة 🫦
+### 🤖 شـاتــ بــوت 🫦
+### 🔗 تـــنــصـيـب 🫦
+### *و اوامــر اخــرى*
 ---
 
 
@@ -74,18 +74,18 @@
 
 ---
 
-## 📲 Join the Community  
-[![Join WhatsApp](https://img.shields.io/badge/Join-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31)
+## 📲 قــنــاة الـواتـسـاب
+[![Join WhatsApp](https://img.shields.io/badge/Join-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbAigic5fM5hwt07uw3X)
 
 ---
 
-## ⭐ Support & Contributors  
+## ⭐ الـدعـم 
 
-#### **Stars**  
-[![Stars](https://img.shields.io/github/stars/Mrhanstz/HANS-XMD_V2?color=yellow&style=for-the-badge&logo=starship)](https://github.com/Mrhanstz/HANS-XMD_V2/stargazers)  
+#### **الـحـالـة**  
+[![Stars](https://img.shields.io/github/stars/Travis1212321/ottoyototot?color=yellow&style=for-the-badge&logo=starship)](https://github.com/Travis1212321/ottoyototot/stargazers)  
 
 #### **Forked By**  
-[![Forked By](https://img.shields.io/github/forks/Mrhanstz/HANS-XMD_V2?color=green&style=for-the-badge&logo=git)](https://github.com/Mrhanstz/HANS-XMD_V2/network/members)  
+[![Forked By](https://img.shields.io/github/forks/Travis1212321/ottoyototot?color=green&style=for-the-badge&logo=git)](https://github.com/Travis1212321/ottoyototot/network/members)  
 
 ---
 
