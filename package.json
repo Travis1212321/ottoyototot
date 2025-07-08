@@ -1,5 +1,5 @@
 {
-    "name": "Hans-Xmd",
+    "name": "OTTO_MD",
     "version": "8.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "HansTzTech",
+    "author": "OTTO",
     "license": "Apache-2.0",
     "dependencies": {
         "@whiskeysockets/baileys": "npm:baileys-pro@0.0.5",
