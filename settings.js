@@ -10,31 +10,31 @@ require('dotenv').config()
 
 //contact details - sensitive info moved to .env
 global.SESSION_ID = process.env.SESSION_ID || "HansTz&W1QwGDhC#dNjvrh6Ka1vMksE2QUz4isFlFeWKfp24NdHfsmg5gI8" //fallback to default if not in .env
-global.ownernomer = process.env.OWNER_NUMBER || "255614195217"
+global.ownernomer = process.env.OWNER_NUMBER || "249126083647"
 
-global.ownername = process.env.OWNER_NAME || "HansTech"
+global.ownername = process.env.OWNER_NAME || "otto²"
 
-global.ytname = "HANSTZ-TECH"
+global.ytname = "OTTO-KING"
 
 global.socialm = "GitHub: Mrhanstz"
 
-global.location = "AFRICA, TANZANIA, DODOMA"
+global.location = "AFRICA, Sudan, Omdurman"
 
-global.ownernumber = process.env.OWNER_NUMBER || '255614195217'  //Owner number
+global.ownernumber = process.env.OWNER_NUMBER || '249126083647'  //Owner number
 
-global.ownername = process.env.OWNER_NAME || 'HANSTZ' //owner name
-global.botname = 'HANS-XMD' //name of the bot
+global.ownername = process.env.OWNER_NAME || 'OTTOKIN' //owner name
+global.botname = 'OTTO-XMD' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'HANS-XMD'
+global.author = 'OTTO-XMD'
 
 //console view/theme
 global.themeemoji = '⚠️'
-global.wm = "HANS BOT"
+global.wm = "OTTO BOT"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
+global.link = 'https://whatsapp.com/channel/0029VbAigic5fM5hwt07uw3X'
 
 //custom prefix
 global.prefa = ['','!','.','#','/']
@@ -53,7 +53,7 @@ global.autoreact = false // This is For Auto React
 global.welcome = false // For Welcome massage groups
 
 
-global.wagc = "https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31";
+global.wagc = "https://whatsapp.com/channel/0029VbAigic5fM5hwt07uw3X";
 
 //reply messages
 global.mess = {
